@@ -1,0 +1,23 @@
+var FullName;
+var firstName = "Chaitanya";
+var lastName = "Nikam";
+var myLove = "JavaScript";
+var age = 24;
+var addresss = "jalgaon";
+var pincode = 425001;
+var gender = "Male";
+var IsMarried = false;
+console.log("Full Name Before Initialization : " + FullName);
+FullName = "Devesh Shisode";
+console.log("Full Name After Initialization : " + FullName);
+console.log("Full Name Is : " + firstName, lastName);
+console.log("====================================================");
+
+console.log("My Love Is : "+myLove);
+console.log('First Name : '+firstName);
+console.log('Last Name : '+lastName);
+console.log('My Age Is : '+age);
+console.log('My Address Is : '+addresss);
+console.log('Pincode is : '+pincode);
+console.log('Gender is : '+gender);
+console.log('is Married : '+IsMarried);
