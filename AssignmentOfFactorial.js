@@ -6,7 +6,7 @@ function facrotial(num){
            if(num===null || num===undefined){
         console.log(`Invalid input " Unhappy Scenrio"`);
     }
-    if(num!=null || num!=undefined){
+           if(num!=null || num!=undefined){
         console.log(fact);
         
     }
